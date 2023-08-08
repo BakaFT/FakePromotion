@@ -21,5 +21,7 @@ npm run build
 ```
 After that, a `index.js` will be generated, and you are ready to go.
 
+If u do not have npm installed. Try the pre-built version in this folder, it will show a promotion to Challenger animation seconds later after the LCU starts up.
+
 
 

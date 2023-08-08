@@ -11,7 +11,7 @@ Alternatively, a fake honor rewad animation is also supported.
 
 You can try to edit the data in `/hooks/xhr_hooks.js` to  show what u want.
 
-## Usage
+# Usage
 
 Pengu Loader 1.0.6 only load a plugin when it have a `index.js`, so open commandline in this root folder and execute my pre-made scripts.
 
@@ -23,5 +23,7 @@ After that, a `index.js` will be generated, and you are ready to go.
 
 If u do not have npm installed. Try the pre-built version in this folder, it will show a promotion to Challenger animation seconds later after the LCU starts up.
 
+# Tips on dev
 
+Fake Arena mode ranking can be done by this way too :)
 

@@ -25,8 +25,7 @@ const PROMOTION = [
     }
 ]
 
-]
-
+// YOU MUST EXPORT WHAT U WANT TO USE HERE using `...VAR_NAME`
 export const XHR_HOOKS = [
     ...PROMOTION
 ]

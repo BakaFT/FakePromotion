@@ -1,4 +1,5 @@
 import { proxy } from 'ajax-hook'
+import { XHR_HOOKS } from './hooks/xhr_hooks'
 export const hookXhr = () => {
     proxy({
         onRequest: (config, handler) => {

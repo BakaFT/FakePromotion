@@ -4,6 +4,14 @@ This is a [Pengu Loader](https://github.com/PenguLoader/PenguLoader) Plugin
 
 **This plugin on works on  Pengu Core 1.0.6-beta，Please get it on dev branch**
 
+**THIS IS EXPOERIMENTAL**
+
+**THIS IS EXPOERIMENTAL**
+
+**THIS IS EXPOERIMENTAL**
+
+**DO NOT ENABLE IT IN DAILY PLAYING, I DON'T KNOW HOW IT WILL AFFECT OTERH PATRS RELATED TO RANKING LEVELS**
+
 # Intro
 This plugin allows it to show a fake Rank Level Promotion Animation after startup of game client.
 

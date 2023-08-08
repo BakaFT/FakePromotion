@@ -20,7 +20,7 @@ const PROMOTION = [
             // response.response = '[{"displayType":"VIGNETTE","msgId":"11223344","notifyReason":"LEAGUE_PROMOTED","queueType":"RANKED_SOLO_5x5"}]'
 
             // PROMOTE TO CHANLLENGER
-            response.response = '[{"tier":"CHANLLENGER","displayType":"VIGNETTE","msgId":"12322224","notifyReason":"LEAGUE_PROMOTED","queueType":"RANKED_SOLO_5x5"}]'
+            response.response = '[{"tier":"CHALLENGER","displayType":"VIGNETTE","msgId":"12322224","notifyReason":"LEAGUE_PROMOTED","queueType":"RANKED_SOLO_5x5"}]'
         }
     }
 ]

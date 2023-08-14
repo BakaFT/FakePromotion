@@ -3,7 +3,7 @@
         matcher: 'leagues-promotion-vignette-v2-component',
         mixin: (Ember, args) => ({
             // Set this to true to enable spoofing
-            spoofingEnabled: true,
+            spoofingEnabled: false,
             // Set this to true to show the profile icon
             shouldShowProfileIcon: true,
             
